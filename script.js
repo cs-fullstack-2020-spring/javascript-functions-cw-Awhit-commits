@@ -1,7 +1,7 @@
 // //Exercise 1 
 
 // //Not sure if you wanted to define variables or not
-
+// //!! looks great, no prams required, but if you have questios about the requirements in the future feel free to ask!
 // //So I made a simple function requiring no paramters
 // function printNumbers() {
 //     for (let index = -25; index <= 20; index++) {
@@ -36,7 +36,7 @@
 // //print return value to console
 // console.log(name);
 
-//Exercise 3 
+// // Exercise 3 
 
 // //Define variable 
 // let number;
@@ -83,20 +83,20 @@
 
 // //Exercise 5
 
-//Define 3 number values using var
-var number1 = 0;
-var number2 = 0;
-var number3 = 0;
+// //Define 3 number values using var
+// var number1 = 0;
+// var number2 = 0;
+// var number3 = 0;
 
-//Ask for the three numbers to add
-number1 = parseInt(prompt("Enter your first number:"));
-number2 = parseInt(prompt("Enter your second number:"));
-number3 = parseInt(prompt("Enter your third number:"));
+// //Ask for the three numbers to add
+// number1 = parseInt(prompt("Enter your first number:"));
+// number2 = parseInt(prompt("Enter your second number:"));
+// number3 = parseInt(prompt("Enter your third number:"));
 
 
-//Does all of the adding in the function
-function sumof3Numbers(num1,num2,num3){
-    total = num1 + num2 + num3
-    console.log (total);
-}
-sumof3Numbers(number1,number2,number3);
+// //Does all of the adding in the function
+// function sumof3Numbers(num1,num2,num3){
+//     total = num1 + num2 + num3
+//     console.log (total);
+// }
+// sumof3Numbers(number1,number2,number3);

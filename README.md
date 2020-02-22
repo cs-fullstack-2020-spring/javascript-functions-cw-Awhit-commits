@@ -1,19 +1,20 @@
 # JavaScript Functions CW
-
-### Problem 1
+#### Looks great! Very well organized file and straightforward solutions. Check out my comments in your js file
+#### Score : 5
+### Problem 1 CORRECT
 
 Create a ```printNumbers``` function to print integers from -25 to 20.
 
-### Problem 2
+### Problem 2 CORRECT
 Create a function that’s passed a firstName and lastName. Return lastName comma firstName.
 
-### Problem 3
+### Problem 3 CORRECT
 Create a function in your program that counts from 0 to [NUMBER]
 
-### Problem 4
+### Problem 4 CORRECT
 Create a function called checkPassword. Send two string variables to the checkPassword function to check if the strings are equal. Return true if they are equal and false if they are not equal. Print the function's return value.
 
-### Problem 5
+### Problem 5 CORRECT
 Create a ```sumOf3Numbers``` function that will print out the sum of the three numbers using the starting code below:
 ```javascript
 var number1 = 0;
